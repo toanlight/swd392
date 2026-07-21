@@ -1,4 +1,6 @@
-package model;
+package controller;
+
+import model.IPuzzleModel;
 
 public class GameTimerThread extends Thread {
 

@@ -1,7 +1,7 @@
 package view;
 
 import model.IPuzzleModel;
-import model.PuzzleModelListener;
+import observer.PuzzleModelListener;
 
 import javax.swing.*;
 import java.awt.*;

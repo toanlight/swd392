@@ -1,5 +1,7 @@
 package model;
 
+import observer.PuzzleModelListener;
+
 public interface IPuzzleModel {
 
     /** Starts a brand new shuffled game of size x size (3 or 4). */

@@ -3,7 +3,7 @@ import controller.PuzzleController;
 import model.IPuzzleModel;
 import model.PuzzleModel;
 import view.PuzzleView;
-import model.GameTimerThread;
+import controller.GameTimerThread;
 
 import javax.swing.*;
 
